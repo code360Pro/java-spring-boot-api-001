@@ -1,6 +1,0 @@
-dependencies:
-- name: helm-template-001
-  repository: https://code360Pro.github.io/helm-template-001/
-  version: 0.1.3
-digest: sha256:715e335ffa73ff2bc739471c36b434917b406ac2141fa067342f72d4c82fb884
-generated: "2025-12-28T21:30:24.049098Z"
